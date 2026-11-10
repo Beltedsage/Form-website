@@ -18,6 +18,18 @@
     border: 2px solid black;
 }
 
+.halfsies {
+  width: 50%;
+}
+
+/* .parent {
+
+} */
+
+.child {
+  display: inline-block;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
